@@ -78,11 +78,11 @@ function Calculos({ dataInput, datosFisicos }) {
 
     return (
         <div>
-            <p>FPAX: {fpax}</p>
-            <p>RPAX1: {rpax1}</p>
-            <p>BAG1: {bag1}</p>
-            <p>FOB: {fob}</p>
-            <p>ZFW: {zfw}</p>
+            {/* <p>FPAX: {fpax}</p> */}
+            {/* <p>RPAX1: {rpax1}</p> */}
+            {/* <p>BAG1: {bag1}</p> */}
+            {/* <p>FOB: {fob}</p> */}
+            {/* <p>ZFW: {zfw}</p> */}
             {/* <Line data={lineData} /> */}
         </div>
     );
